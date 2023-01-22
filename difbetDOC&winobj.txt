@@ -1,0 +1,2 @@
+Window object is top of the hierarchy. It is the outmost element of the object hierarchy. Every web page resides inside a browser window which can be considered as an object.
+In document object each HTML document that gets loaded into a window becomes a document object. The document contains the contents of the page. The Document object has various properties that refer to other objects which allow access to and modification of document content.
